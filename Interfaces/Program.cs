@@ -53,7 +53,7 @@ namespace Interfaces
             personManager.Add(student);
         }
     }
-
+    //interfaceler new lenemez.
     interface IPerson
     {
         int Id { get; set; }
